@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/33/trunk/src/com/adobe/webapis/flickr/authorization
+END
+AuthorizationViewClass.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/33/trunk/src/com/adobe/webapis/flickr/authorization/AuthorizationViewClass.as
+END
+AuthorizationView.mxml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/33/trunk/src/com/adobe/webapis/flickr/authorization/AuthorizationView.mxml
+END
+FlickrAuthorizationSettings.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/33/trunk/src/com/adobe/webapis/flickr/authorization/FlickrAuthorizationSettings.as
+END
